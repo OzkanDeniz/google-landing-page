@@ -23,10 +23,13 @@ color: black;
 }
 
 
+
+
 .left-side a{
     text-decoration: none;
-    margin-right: 1rem;
     font-size: 1.5rem ;
+    margin-left: 1rem;
+   
 }
 
 
@@ -35,12 +38,15 @@ color: black;
     display: flex;
     justify-content:end;
     gap: 1rem;
+    margin-right: 1rem;
+
     
 }
 
 .right-side a{
     text-decoration:none;
     font-size: 1.5rem;
+   
 
 }
 
