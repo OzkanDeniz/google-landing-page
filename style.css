@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.head{
+    /* border: 2px solid black; */
+  display: flex;
+  justify-content:space-between;
+
+}
+
+body{
+    background-color: white;
+
+}
+
+body a{
+color: black;
+}
+
+
+.left-side a{
+    text-decoration: none;
+    margin-right: 1rem;
+    font-size: 1.5rem ;
+}
+
+
+.right-side{
+    /* border: 2px solid orange; */
+    display: flex;
+    justify-content:end;
+    gap: 1rem;
+    
+}
+
+.right-side a{
+    text-decoration:none;
+    font-size: 1.5rem;
+
+}
+
+
+
+
+img{
+    /* border: 2px solid red; */
+    width: 4%;
+  
+}
